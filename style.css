@@ -42,8 +42,8 @@ background-color:#333;
 .brown {
  background-color: rgb(86, 79, 77);
 }
-.pseudo:hover {
+h4:hover {
 text-align:right;
  font-size:50px;
+ transition-duration: 1s;
 }
-

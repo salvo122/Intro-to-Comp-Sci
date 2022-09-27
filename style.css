@@ -3,7 +3,7 @@ text-align:center;
  background-color:gray;
 }
 h1{
- font-size:60;
+ font-size:60px;
 }
 header{
 background-image:url(https://th.bing.com/th/id/R.10a45129e8a0dcedd14ee8679642ef02?rik=SBXxhloUNv8dOw&pid=ImgRaw&r=0);
@@ -34,4 +34,7 @@ margin-left:auto;
 }
 footer{
 background-color:#333;
+}
+h3: hover {
+
 }

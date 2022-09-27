@@ -42,6 +42,6 @@ background-color:#333;
 .brown {
  background-color: rgb(86, 79, 77);
 }
-.pseudo::before{
+.pseudo::hover{
   background: url(https://miro.medium.com/max/2776/1*1wUD_t4Ufp8Ef9NQzcydWQ.png);
 }

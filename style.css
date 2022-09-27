@@ -43,10 +43,4 @@ background-color:#333;
  background-color: rgb(86, 79, 77);
 }
 
-.none{
-   display: none
-}
 
-span:hover + .none{
-   display: block;
-}

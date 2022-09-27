@@ -47,6 +47,6 @@ background-color:#333;
    display: none
 }
 
-span:hover + img{
+span:hover + .none{
    display: block;
 }

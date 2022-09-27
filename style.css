@@ -11,6 +11,7 @@ background-size:100% 100%;
 }
 h2 {
 font-size:34px;
+font-style:bolder;
 }
 iframe{
  margin-right:auto;
@@ -24,7 +25,7 @@ font-style:bold;
 color:white;
 }
 img{
-height:350px;
+height:325px;
 width:600px;
  margin-right:auto;
  border: 5px solid black;
@@ -32,9 +33,14 @@ width:600px;
 .left {
 margin-left:auto;
 }
+.right{
+text-align:right;
+}
 footer{
 background-color:#333;
 }
-h3: hover {
-content:iframe ('https://www.youtube.com/embed/eY7wwPZP1Bw')
+.brown {
+ background-color: rgb(86, 79, 77);
 }
+.pseudo::before{
+    content: 'https://miro.medium.com/max/2776/1*1wUD_t4Ufp8Ef9NQzcydWQ.png';

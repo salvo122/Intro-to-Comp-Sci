@@ -42,5 +42,8 @@ background-color:#333;
 .brown {
  background-color: rgb(86, 79, 77);
 }
-
+.pseudo:hover {
+text-align:left;
+ font-size:50px;
+}
 

@@ -43,5 +43,5 @@ background-color:#333;
  background-color: rgb(86, 79, 77);
 }
 .pseudo::before{
-    content: 'https://miro.medium.com/max/2776/1*1wUD_t4Ufp8Ef9NQzcydWQ.png';
+  background: url();
 }

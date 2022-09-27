@@ -46,6 +46,7 @@ background-color:#333;
 font-size:20;
  text-align:left;
  color:white;
+ visibility:hidden;
 }
 .pseudo:hover {
 text-align:right;

@@ -1,11 +1,21 @@
+body{
+text-align:center;
+ background-color:gray;
+}
+
 h1{
 font-size:100px;
+}
+h2 {
+font-size:34px;
+font-style:bolder;
 }
 .table {
 height:300px;
 }
 header{
-  background-image:url('https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/800px-One_Piece_Logo.svg.png');
+  background-image:url(https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/800px-One_Piece_Logo.svg.png);
+  background-size:100% 100%;
 }
 .strawhat{
 height:500px;
@@ -13,4 +23,7 @@ width:350px;
 }
 p{
 font-size:20px;
+font-family:helveca;
+font-style:bold;
+color:white;
 }

@@ -19,7 +19,7 @@ header{
   background-image:url(https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/800px-One_Piece_Logo.svg.png);
   background-size:100% 100%;
 }
-table, th, td {
+th, td {
   border: 5px solid darkblue;
 }
 .strawhat{

@@ -15,12 +15,19 @@ color: pink;
 main{
 background-color:gray;
 }
+.tables {
 
+}
 h2 {
 font-size:60px;
 font-style:bolder;
 }
+table{
+background-image:url();
+}
+table{
 
+}
 img.table {
 height:150px;
 margin:10px 10px 10px 10px ;
@@ -37,11 +44,15 @@ height: 350px;
 height:500px;
 width:350px;
 }
-th, td {
+td {
   border: 5px solid darkblue;
   margin:10px 10px 10px 10px;
+  background-image:url(https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/One-Piece-Straw-Hat-Pirates-Mysteries.jpg);
+  transition:filter 2s;
 }
-
+td:active{
+filter:opacity(0%);
+}
 p{
 font-size:20px;
 font-family:helveca;

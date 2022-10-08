@@ -25,10 +25,9 @@ img.table {
 height:150px;
 padding: 5px 5px 5px 5px;
 filter: grayscale(90%);
-transition: height 2s, filter 2s; 
+transition: height 2s, filter 2s;
 }
 img.table:hover {
-padding: 15px 15px 15px 15px;
 filter: grayscale(0%); 
 height: 200px;
 }

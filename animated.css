@@ -47,12 +47,7 @@ width:350px;
 td {
   border: 5px solid darkblue;
   margin:10px 10px 10px 10px;
-  background-image:url(https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/One-Piece-Straw-Hat-Pirates-Mysteries.jpg);
-  transition:opacity 2s;
-}
-td:active{
-opacity:(0%);
-}
+ 
 p{
 font-size:20px;
 font-family:helveca;

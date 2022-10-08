@@ -28,7 +28,6 @@ background-image:url(https://deluxe.news/wp-content/uploads/2022/05/One-Piece-Ev
 .strawhat{
 height:500px;
 width:350px;
-float:left;  
 }
 th, td {
   border: 5px solid darkblue;
@@ -40,7 +39,6 @@ font-size:20px;
 font-family:helveca;
 font-style:bold;
 color:white;
-float:right;
 }
 .details {
 background-color: rgb(86, 79, 77);

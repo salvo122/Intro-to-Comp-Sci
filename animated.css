@@ -50,4 +50,9 @@ background-color: rgb(86, 79, 77);
 height:500px;
 width:410px;
 }
-
+.right{
+float:right;
+}
+.left{
+float:left;
+}

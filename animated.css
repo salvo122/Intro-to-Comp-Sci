@@ -25,7 +25,10 @@ height:300px;
 padding: 5px 5px 5px 5px;
 background-image:url(https://deluxe.news/wp-content/uploads/2022/05/One-Piece-Every-Straw-Hat-Pirate-Ranked-By-Their-Designs.jpg);
 }
-
+.strawhat{
+height:500px;
+width:350px;
+}
 th, td {
   border: 5px solid darkblue;
   margin:10px 10px 10px 10px;

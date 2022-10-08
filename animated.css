@@ -29,6 +29,7 @@ background-image:url(https://deluxe.news/wp-content/uploads/2022/05/One-Piece-Ev
 
 th, td {
   border: 5px solid darkblue;
+  margin:10px 10px 10px 10px;
 }
 .strawhat{
 height:500px;

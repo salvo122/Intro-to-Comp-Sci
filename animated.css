@@ -24,11 +24,12 @@ font-style:bolder;
 img.table {
 height:150px;
 filter: grayscale(90%);
-transition: height 2s, filter 2s;
+transition: height 1s, filter 1s;
 }
+
 img.table:hover {
 filter: grayscale(0%); 
-height: 200px;
+height: 300px;
 }
 .strawhat{
 height:500px;

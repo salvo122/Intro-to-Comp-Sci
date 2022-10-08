@@ -2,14 +2,19 @@ body{
 text-align:center;
 background-color: rgb(86, 79, 77);
 }
+header{
+  background-image:url(https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/800px-One_Piece_Logo.svg.png);
+  background-size:100% 100%;
+}
+h1{
+font-size:175px;
+margin: 300px 0px 300px 00px; 
+padding: 300px 0px 300px 0px ;
+}
 main{
 background-color:gray;
 }
 
-h1{
-font-size:175px;
-margin: 00px 0px 1000px 00px; 
-}
 h2 {
 font-size:60px;
 font-style:bolder;
@@ -19,10 +24,7 @@ height:300px;
 padding: 5px 5px 5px 5px;
 background-image:url(https://deluxe.news/wp-content/uploads/2022/05/One-Piece-Every-Straw-Hat-Pirate-Ranked-By-Their-Designs.jpg);
 }
-header{
-  background-image:url(https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/One_Piece_Logo.svg/800px-One_Piece_Logo.svg.png);
-  background-size:100% 100%;
-}
+
 th, td {
   border: 5px solid darkblue;
 }

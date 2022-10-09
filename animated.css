@@ -57,3 +57,9 @@ background-color: rgb(86, 79, 77);
 height:500px;
 width:480px;
 }
+.left{
+float:left;
+}
+.right{
+float:left;
+}

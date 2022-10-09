@@ -20,6 +20,9 @@ h2 {
 font-size:60px;
 font-style:bolder;
 }
+h2:hover {
+text-decoration:underline;
+}
 
 img.table {
 height:150px;
@@ -36,6 +39,7 @@ height: 350px;
 .strawhat{
 height:500px;
 width:350px;
+left:500px;
 }
 
 p{
@@ -50,7 +54,6 @@ transition: opacity 1s;
 p:hover{
 opacity:0.9;
 }
-
 
 td {
   border: 5px solid darkblue;

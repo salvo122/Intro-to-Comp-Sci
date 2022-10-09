@@ -43,12 +43,12 @@ font-size:20px;
 font-family:helveca;
 font-style:bold;
 color:white;
-opacity:0.6;
-transition: opacity 2s;
+opacity:0.2;
+transition: opacity 3s;
 }
 
 p:hover{
-opacity:1;
+opacity:0.9;
 }
 
 

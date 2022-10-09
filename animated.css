@@ -43,15 +43,11 @@ width:350px;
 transform: translate(-300px);
 }
 .strawhat:hover{
-position:relative;
 animation-name: intro;
 animation-duration: 4s;
-animation-delay:1s;
 }
 @keyframes intro{
   from{
-height:500px;
-width:350px;
 transform: translate(-300px);}
   to{
 transform: rotate(360deg);

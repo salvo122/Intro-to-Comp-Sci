@@ -36,6 +36,7 @@ height: 350px;
 .strawhat{
 height:500px;
 width:350px;
+float:left;
 }
 td {
   border: 5px solid darkblue;
@@ -46,6 +47,7 @@ font-size:20px;
 font-family:helveca;
 font-style:bold;
 color:white;
+float:right;
 }
 .details {
 background-color: rgb(86, 79, 77);
@@ -57,9 +59,4 @@ background-color: rgb(86, 79, 77);
 height:500px;
 width:480px;
 }
-.left{
-float:left;
-}
-.right{
-float:left;
-}
+

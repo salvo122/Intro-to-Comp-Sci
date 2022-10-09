@@ -20,12 +20,7 @@ h2 {
 font-size:60px;
 font-style:bolder;
 }
-table{
-background-image:url();
-}
-table{
 
-}
 img.table {
 height:150px;
 margin:10px 10px 10px 10px ;
@@ -45,7 +40,7 @@ width:350px;
 td {
   border: 5px solid darkblue;
   margin:10px 10px 10px 10px;
- 
+}
 p{
 font-size:20px;
 font-family:helveca;

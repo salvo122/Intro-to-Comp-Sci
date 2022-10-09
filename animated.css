@@ -44,7 +44,7 @@ font-family:helveca;
 font-style:bold;
 color:white;
 opacity:0.2;
-transition: opacity 3s;
+transition: opacity 1s;
 }
 
 p:hover{

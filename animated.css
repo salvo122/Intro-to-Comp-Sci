@@ -43,12 +43,12 @@ width:350px;
 transform: translate(-300px);
 }
 .strawhat:hover{
-animation-name: intro;
-animation-duration: 4s;
+animation: intro 4s linear forwards;
 }
 @keyframes intro{
   from{
-transform: translate(-300px);}
+    transform: rotate(0deg);
+    transform: translate(-300px);}
   to{
 transform: rotate(360deg);
 transform:translate(300px)}

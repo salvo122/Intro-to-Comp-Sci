@@ -37,6 +37,7 @@ height: 350px;
 height:500px;
 width:350px;
 margin: 0;
+float:left;
 }
 td {
   border: 5px solid darkblue;
@@ -48,6 +49,7 @@ font-family:helveca;
 font-style:bold;
 color:white;
 margin: 0;
+float:right;
 }
 .details {
 background-color: rgb(86, 79, 77);

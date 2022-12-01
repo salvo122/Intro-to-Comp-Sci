@@ -1,0 +1,28 @@
+from random import randint
+
+user = input("ENTER YOUR CHOICE HERE (rock, paper, sciss): ")
+choice = randint(1, 3) 
+
+if choice == 1:
+    computer = 'rock'
+if choice == 2:
+    computer = 'sciss'
+if choice == 3:
+    computer = 'paper'
+
+print("I throw " + computer )
+    
+if user == computer:
+    print("Draw")
+if user == 'sciss' and computer == 'paper':
+    print("You Win")
+if user == 'paper' and computer == 'rock':
+    print("You Win!")
+if user == 'rock' and computer == 'sciss':
+    print("You win")
+if user == 'paper' and computer == 'sciss':
+    print("You lose")
+if user == 'sciss' and computer == 'rock':
+    print("You lose")
+if user == 'rock' and computer == 'paper':
+    print("You lose")

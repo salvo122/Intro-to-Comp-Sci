@@ -3,11 +3,12 @@ def ask():
         try: 
             number= int(input("Enter ONLY a positive number: "))
             while number <= 0:
-                number= int(input("Enter ONLY a positive number: "))
+                print "Try again!"
+                number= int(input("Enter ONLY a positive number: "))    
                 if number > 0:
                     break
                 else: 
-                    print "Try again!"
+                    continue
             return number    
         except ValueError:
             print "That's not a number"
